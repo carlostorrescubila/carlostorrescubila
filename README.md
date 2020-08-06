@@ -2,21 +2,23 @@
 
 I am a passionate about statistics and enthusiast of data analysis. I like to learn about multivariate statistics, machine learning and deep learning.
 
-<!-- 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About me 
+- 🌱 I’m currently learning shiny
+- 🤔 I’m looking for help with shiny apps
+- 💬 Ask me about statistics issues
+- 🥅 2020 Goals: learn everithing i can
+- ⚡ Fun fact: i like soccer, latin music and making excercise
 
 ### Programming Languages 💻
 <img src="https://img.icons8.com/color/144/000000/python.png"/>  <img src="https://www.r-project.org/logo/Rlogo.svg"  width="17%" height="15%">
+
+
+### My stats 📊
+<!--- 
+To visualize stats visit: https://github.com/anuraghazra/github-readme-stats 
+--->
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=carlostorrescubila&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlostorrescubila)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### Connect with me 😃
