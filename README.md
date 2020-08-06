@@ -1,18 +1,17 @@
 ### Hi there, I'm Carlos. 👋
-
 I am a passionate about statistics and enthusiast of data analysis. I like to learn about multivariate statistics, machine learning and deep learning.
 
-### About me 
+### About me:
 - 🌱 I’m currently learning shiny
 - 🤔 I’m looking for help with shiny apps
 - 💬 Ask me about statistics issues
 - 🥅 2020 Goals: learn everithing i can
 - ⚡ Fun fact: i like soccer, latin music and making excercise
-
+---
 ### Programming Languages 💻
 <img src="https://img.icons8.com/color/144/000000/python.png"/>  <img src="https://www.r-project.org/logo/Rlogo.svg"  width="17%" height="15%">
 
-
+---
 ### My stats 📊
 <!--- 
 To visualize stats visit: https://github.com/anuraghazra/github-readme-stats 
@@ -20,7 +19,7 @@ To visualize stats visit: https://github.com/anuraghazra/github-readme-stats
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=carlostorrescubila&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlostorrescubila)](https://github.com/anuraghazra/github-readme-stats)
 
-
+---
 ### Connect with me 😃
 <a href="https://www.linkedin.com/in/carlos-alfredo-torres-cubilla/">
   <img align="left" alt="Linkdin" width="21px" src="https://firebasestorage.googleapis.com/v0/b/github--images.appspot.com/o/Github%20images%2Flinkedin.svg?alt=media&token=0e662ab8-db11-475a-9c43-18d89bcdfde0" />
