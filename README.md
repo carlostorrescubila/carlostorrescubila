@@ -16,8 +16,8 @@ I am a passionate about statistics and enthusiast of data analysis. I like to le
 <!--- 
 To visualize stats visit: https://github.com/anuraghazra/github-readme-stats 
 --->
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=carlostorrescubila&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlostorrescubila)](https://github.com/anuraghazra/github-readme-stats)
+![Carlos's github stats](https://github-readme-stats.vercel.app/api?username=carlostorrescubila&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlostorrescubila)]
 
 ---
 ### Connect with me 😃
@@ -26,3 +26,4 @@ To visualize stats visit: https://github.com/anuraghazra/github-readme-stats
 </a>
 <a href="https://twitter.com/carlos_tc22">
   <img align="left" alt="Twitter" width="21px" src="https://firebasestorage.googleapis.com/v0/b/github--images.appspot.com/o/Github%20images%2Ftwitter.svg?alt=media&token=0e4ffc45-d873-47ee-b08c-9b98b4fe66cf" />
+[![https://firebasestorage.googleapis.com/v0/b/github--images.appspot.com/o/Github%20images%2Ftwitter.svg?](https://twitter.com/carlos_tc22)]
