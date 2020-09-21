@@ -17,6 +17,8 @@ I am a passionate about statistics and enthusiast of data analysis. I like to le
 To visualize stats visit: https://github.com/anuraghazra/github-readme-stats 
 --->
 ![Carlos's github stats](https://github-readme-stats.vercel.app/api?username=carlostorrescubila&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlostorrescubila)
+
 
 
 ---
