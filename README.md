@@ -6,7 +6,7 @@ I am a passionate about statistics and enthusiast of data analysis. I like to le
 - 🤔 I’m looking for help with shiny apps
 - 💬 Ask me about statistics issues
 - 🥅 2020 Goals: learn everithing i can
-- ⚡ Fun fact: i like soccer, latin music and making excercise
+- ⚡ Fun fact: i like soccer, latin music and doing excercise
 ---
 ### Programming Languages 💻
 <img src="https://img.icons8.com/color/144/000000/python.png"/>  <img src="https://www.r-project.org/logo/Rlogo.svg"  width="17%" height="15%">
