@@ -10,7 +10,9 @@ I am a passionate about statistics and enthusiast of data analysis. I like to le
 ---
 ### Programming Languages 💻
  <img src="https://img.icons8.com/color/144/000000/python.png" width="128px"/>  <img src="https://www.r-project.org/logo/Rlogo.svg"  width="128px"/>
-
+ 
+### Programming Languages 💻
+<img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/r/r.svg"  height="128px"/> <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/python/python.svg" height="128px"/>  
 ---
 ### My stats 📊
 <!--- 
