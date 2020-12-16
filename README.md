@@ -7,10 +7,12 @@ I am a passionate about statistics and enthusiast of data analysis. I like to le
 - 💬 Ask me about statistics issues
 - 🥅 2020 Goals: learn everithing i can
 - ⚡ Fun fact: i like soccer, latin music and doing excercise
+
 ---
 
 ### Programming Languages 💻
 <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/r/r.svg"  height="128px"/> <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/python/python.svg" height="128px"/>  
+
 ---
 
 ### My stats 📊
@@ -19,6 +21,7 @@ To visualize stats visit: https://github.com/anuraghazra/github-readme-stats
 --->
 ![Carlos's github stats](https://github-readme-stats.vercel.app/api?username=carlostorrescubila&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlostorrescubila)
+
 ---
 
 ### Connect with me 😃
