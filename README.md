@@ -1,11 +1,12 @@
-### Hi there, I'm Carlos. 👋
+### Hi there, I'm Carlos. 👋 
+
 I am a passionate about statistics and enthusiast of data analysis. I like to learn about multivariate statistics, machine learning and deep learning.
 
 ### About me:
 - 🌱 I’m currently improving my Python skills
 - 🤔 I’m looking for help with machine learning
 - 💬 Ask me about statistics issues
-- 🥅 2021 Goals: learn everithing i can
+- 🥅 2022 Goals: learn everithing I can
 - ⚡ Fun fact: i like soccer, latin music and doing excercise
 
 ---
