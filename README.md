@@ -3,10 +3,10 @@
 I am a passionate about statistics and enthusiast of data analysis. I like to learn about multivariate statistics, machine learning and deep learning.
 
 ### About me:
-- 🌱 I’m currently improving my Python skills
-- 🤔 I’m looking for help with machine learning
+- 🌱 I’m currently building my data science career
+- 🤔 I’m looking for new machine learning challenges
 - 💬 Ask me about statistics issues
-- 🥅 2022 Goals: learn everithing I can
+- 🥅 2023 Goals: to keep learning
 - ⚡ Fun fact: i like soccer, latin music and doing excercise
 
 ---
