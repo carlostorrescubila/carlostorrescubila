@@ -6,7 +6,7 @@ I am a passionate about statistics and enthusiast of data analysis. I like to le
 - 🌱 I’m a data scientist
 - 🤔 I’m looking for new machine learning challenges
 - 💬 Ask me about statistics issues
-- 🥅 2023 Goals: to keep learning
+- 🥅 2025 Goals: to keep learning
 - ⚡ Fun fact: i like soccer, latin music and doing excercise
 
 ---
